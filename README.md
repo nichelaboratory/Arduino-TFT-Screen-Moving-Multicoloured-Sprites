@@ -11,4 +11,5 @@ I didn't have too many problems using the TFT display. The main issue I had was 
 https://youtu.be/xCG11KJHE_Q
 
 image2cpp: http://javl.github.io/image2cpp/
+
 Hardware graphics captured on a Canon EOS 550D with a 60mm EF-S macro lens.
